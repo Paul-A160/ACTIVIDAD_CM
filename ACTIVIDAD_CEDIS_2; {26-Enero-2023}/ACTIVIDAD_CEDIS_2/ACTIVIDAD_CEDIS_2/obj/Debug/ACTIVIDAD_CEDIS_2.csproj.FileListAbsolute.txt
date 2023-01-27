@@ -1,0 +1,12 @@
+C:\Users\Awaken\source\repos\ACTIVIDAD_CEDIS_2\ACTIVIDAD_CEDIS_2\bin\Debug\ACTIVIDAD_CEDIS_2.exe.config
+C:\Users\Awaken\source\repos\ACTIVIDAD_CEDIS_2\ACTIVIDAD_CEDIS_2\bin\Debug\ACTIVIDAD_CEDIS_2.exe
+C:\Users\Awaken\source\repos\ACTIVIDAD_CEDIS_2\ACTIVIDAD_CEDIS_2\bin\Debug\ACTIVIDAD_CEDIS_2.pdb
+C:\Users\Awaken\source\repos\ACTIVIDAD_CEDIS_2\ACTIVIDAD_CEDIS_2\obj\Debug\ACTIVIDAD_CEDIS_2.csproj.AssemblyReference.cache
+C:\Users\Awaken\source\repos\ACTIVIDAD_CEDIS_2\ACTIVIDAD_CEDIS_2\obj\Debug\ACTIVIDAD_CEDIS_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Awaken\source\repos\ACTIVIDAD_CEDIS_2\ACTIVIDAD_CEDIS_2\obj\Debug\ACTIVIDAD_CEDIS_2.Form1.resources
+C:\Users\Awaken\source\repos\ACTIVIDAD_CEDIS_2\ACTIVIDAD_CEDIS_2\obj\Debug\ACTIVIDAD_CEDIS_2.FORM_AGREGAR.resources
+C:\Users\Awaken\source\repos\ACTIVIDAD_CEDIS_2\ACTIVIDAD_CEDIS_2\obj\Debug\ACTIVIDAD_CEDIS_2.Properties.Resources.resources
+C:\Users\Awaken\source\repos\ACTIVIDAD_CEDIS_2\ACTIVIDAD_CEDIS_2\obj\Debug\ACTIVIDAD_CEDIS_2.csproj.GenerateResource.cache
+C:\Users\Awaken\source\repos\ACTIVIDAD_CEDIS_2\ACTIVIDAD_CEDIS_2\obj\Debug\ACTIVIDAD_CEDIS_2.csproj.CoreCompileInputs.cache
+C:\Users\Awaken\source\repos\ACTIVIDAD_CEDIS_2\ACTIVIDAD_CEDIS_2\obj\Debug\ACTIVIDAD_CEDIS_2.exe
+C:\Users\Awaken\source\repos\ACTIVIDAD_CEDIS_2\ACTIVIDAD_CEDIS_2\obj\Debug\ACTIVIDAD_CEDIS_2.pdb

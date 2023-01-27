@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACTIVIDAD_CEDIS_2", "ACTIVIDAD_CEDIS_2\ACTIVIDAD_CEDIS_2.csproj", "{EAD5AE35-8A0C-4A24-AE80-EA6BFBB25E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD5AE35-8A0C-4A24-AE80-EA6BFBB25E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD5AE35-8A0C-4A24-AE80-EA6BFBB25E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD5AE35-8A0C-4A24-AE80-EA6BFBB25E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD5AE35-8A0C-4A24-AE80-EA6BFBB25E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09103BEF-188B-4655-BCB4-A95444E4C6D7}
+	EndGlobalSection
+EndGlobal
